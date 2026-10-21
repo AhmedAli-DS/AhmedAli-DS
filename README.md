@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Ali
 
-**Teaching machines to find patterns, and explaining them to humans.**
+**Skills:** Python • SQL • Machine Learning • Scikit-learn • Pandas • EDA • Power BI (basic)
 
 Data Science graduate (M.S., Lindsey Wilson University) based in Austin, TX. I build machine learning models in Python and SQL and explain the results in plain language.
 
