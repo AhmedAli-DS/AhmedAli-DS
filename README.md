@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ahmed Ali
 
-<!--
-**AhmedAli-DS/AhmedAli-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Teaching machines to find patterns, and explaining them to humans.**
 
-Here are some ideas to get you started:
+Data Science graduate (M.S., Lindsey Wilson University) based in Austin, TX. I build machine learning models in Python and SQL and explain the results in plain language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MySQL), R
+- **Machine learning:** classification, regression, clustering, feature engineering, threshold tuning, model evaluation
+- **Analysis and reporting:** EDA, statistical inference, hypothesis testing, Power BI (basic), Excel, Folium
+- **Engineering:** RESTful APIs, SQL query optimization, Git/GitHub
+
+## Featured projects
+
+| Project | What it does | Result |
+|---|---|---|
+| [Telecom Customer Churn: Model Evaluation](https://github.com/AhmedAli-DS/Telecom-customer-churn--Model-Evaluation) | Predicts at-risk customers on an imbalanced 7,000+ row dataset with Logistic Regression and Random Forest | 87% accuracy, 0.83 F1 on the minority class |
+| [Sales Forecasting](https://github.com/AhmedAli-DS/sales-forecasting) | Time-series forecasting with trend/seasonality decomposition and lag and rolling features | RMSE reduced 22% vs. a moving-average baseline |
+| AustinEasyPark (in progress) | Predicts block-level street parking availability in downtown Austin from City of Austin transaction data, with Folium maps | Work in progress |
+
+## Find me
+
+- Portfolio: https://ahmedali-ds.github.io/
+- LinkedIn: https://www.linkedin.com/in/ahmed-ali-348236357/
+- Email: ahmedalichattha71@gmail.com
